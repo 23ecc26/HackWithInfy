@@ -24,3 +24,7 @@ public class Main
 	      return count;
 	}
 }
+
+
+Formula Used is,
+Exactly k = (Atmost K) - (Atmost k-1)
